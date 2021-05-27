@@ -8,7 +8,7 @@ About
 Control state and component display to provide a quality experience and an accurate, reliable Pomodoro timer.
 
 Tools
-Installing packages with NPM
-React function components
-Hooks useState() and useInterval()
-Bootstrap v4.5
+a) Installing packages with NPM
+b) React function components
+c) Hooks useState() and useInterval()
+d) Bootstrap v4.5
